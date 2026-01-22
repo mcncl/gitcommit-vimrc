@@ -1,3 +1,5 @@
+# gitcommit-vimrc
+
 A minimal Vim configuration that enforces git commit message best practices.
 
 - **50 character subject line** - Automatically truncates the first line to 50 characters
